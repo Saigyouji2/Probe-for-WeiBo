@@ -102,7 +102,7 @@
 ```
 
 #### 9.当你处于微博正文的过程时，会有一个进度条指示你当前的进度
-![](https://github.com/Saigyouji2/-/blob/master/%E6%8D%95%E8%8E%B7.PNG)
+![](https://github.com/Saigyouji2/Probe-for-WeiBo/blob/master/%E6%8D%95%E8%8E%B7.PNG.PNG)
 
 ## 使用
 **在**你使用这个程序之前，你需要获取一个cookie字符串
@@ -113,7 +113,7 @@
 - 创建一个txt文件“cookie.txt”，把字符串粘贴到里面，然后把这个文件放入程序根目录即可
 
 然后输入用户昵称，根据提示（Y/N）进行选择即可
-![](https://github.com/Saigyouji2/-/blob/master/%E6%8D%95%E8%8E%B72.PNG)
+![](https://github.com/Saigyouji2/Probe-for-WeiBo/blob/master/%E6%8D%95%E8%8E%B7.PNG)
 当你完成你的设置时，程序会自动把你的设置保存到config.txt文件内，在下一次启动程序时将读取它，再由用户决定是否按照之前的设置运行程序。
 
 如果一切正常，你可以在txt文件，你指定的图片文件夹，或者mysql数据库内看见你需要的信息
