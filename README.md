@@ -101,7 +101,7 @@
             )
 ```
 
-#### 9.当你处于微博正文的过程时，会有一个进度条指示你当前的进度
+#### 9.当你处于爬取微博正文的过程时，会有一个进度条指示你当前的进度
 ![](https://github.com/Saigyouji2/Probe-for-WeiBo/blob/master/%E6%8D%95%E8%8E%B7.PNG.PNG)
 
 ## 使用
