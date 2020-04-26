@@ -62,25 +62,25 @@
 ```sql
             create table if not exists PersonalInfo 
             (
-				nickname varchar(90) not null primary key,
-				location varchar(20),
-				sex varchar(5),
-				birthday varchar(20),
-				briefIntroduction varchar(100),
-				registerTime varchar(20),
-				enterpriseName varchar(40),
-				region varchar(20),
-				title varchar(20),
-				university varchar(30),
-				subscription int,
-				fans int
+		nickname varchar(90) not null primary key,
+		location varchar(20),
+		sex varchar(5),
+		birthday varchar(20),
+		briefIntroduction varchar(100),
+		registerTime varchar(20),
+		enterpriseName varchar(40),
+		region varchar(20),
+		title varchar(20),
+		university varchar(30),
+		subscription int,
+		fans int
             ) 
 ```
 ```sql
             create table if not exists weiboTexts
             (
                 ifreposted int not null,
-	            id varchar(40) not null,
+	        id varchar(40) not null,
                 mid varchar(40) not null,
                 date varchar(40) not null,
                 text varchar(10000),
