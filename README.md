@@ -63,7 +63,7 @@
             create table if not exists weiboTexts
             (
                 ifreposted int not null,
-	            id varchar(40) not null,
+	        id varchar(40) not null,
                 mid varchar(40) not null,
                 date varchar(40) not null,
                 text varchar(10000),
@@ -78,7 +78,7 @@
             create table if not exists weiboTexts
             (
                 ifreposted int not null,
-	            id varchar(40) not null,
+	        id varchar(40) not null,
                 mid varchar(40) not null,
                 date varchar(40) not null,
                 text varchar(10000),
